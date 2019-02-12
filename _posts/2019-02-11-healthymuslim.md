@@ -2,7 +2,7 @@
 layout: post
 title: "Cultivating a Healthy Muslim Personality"
 date: 2019-02-11
-excerpt: "We are in dire need to learn, teach, and shape a healthy Muslim personality. "
+excerpt: "We are in dire need to learn, cultivate, and shape a healthy Muslim personality."
 tags: [muslims, Shaykh Hamdi, Islam, Sufism]
 comments: true
 ---
