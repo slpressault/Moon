@@ -9,6 +9,8 @@ background:         'assets/img/pine-tree.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://slpressault.github.io/lifeontheshoulders
+url:                https://www.lifeontheshoulders.com
+url:                https://relaxed-shirley-118bb4.netlify.com/
 
 # Jekyll
 permalink:          /:title/
