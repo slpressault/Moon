@@ -9,6 +9,7 @@ tag:
 - example
 - test
 - jekyll
+draft: true
 comments: true
 ---
 
