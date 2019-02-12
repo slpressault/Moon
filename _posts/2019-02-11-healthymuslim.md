@@ -7,6 +7,11 @@ tags: [muslims, Shaykh Hamdi, Islam, Sufism]
 comments: true
 ---
 
+<figure>
+	<img src="https://www.lisamcloughlinart.com/wp-content/uploads/2016/09/treelungs.png/">
+	<figcaption>
+</figure>
+
 Shaykh Hamdi teaches that we are in dire need to learn, teach, and shape a healthy Muslim personality. For such a personality is the rock upon which we cast our rope. Our Example, the Emissary of God, is known as the Illiterate Prophet (an-Nabī al-Ummi). He did not need the text to shape his Noble Personality, nor did he depend upon the text to transmit his heritage. Indeed, the Qur’an is revealed to him as the Revered Sacred Text, but such reverence came through him ﷺ, and not independent from him. Throughout History, our Ancestors rarely had to understand the text of the Qur’an to forge a healthy Muslim personality. Rather they lived the Spirit of the Qur’an through the Walking Inheritors of the Prophetic Way.
 
 Our Ancestors were shaped by the culture of reverence for the Qur’an. Often towns would only have a few actual books of Qur’an, if even. The scarcity of the physical copy deepened their reverence. The role of its text was not to inform people. It was meant to remind people of the Beauty and Majesty of God.
