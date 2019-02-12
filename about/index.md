@@ -1,17 +1,12 @@
 ---
 layout: page
 title: About Life on the Shoulders
-tags: [about, Stephane, page, Islam, Shaykh Hamdi, Ben Aissa, Sufism]
 date: 2019-02-11
+feature: http://www.lifeontheshoulders.com/assets/img/IMG_5502.JPG
 comments: false
 ---
     
 <center>Life on the Shoulders is an exploration of a student's path on the shoulders of his Teacher.</center>
-
-
-<figure>
-	<img src="http://www.lifeontheshoulders.com/assets/img/IMG_5502.JPG">
-</figure>
 
 
 ## Nanos gigantum humeris insidentes
