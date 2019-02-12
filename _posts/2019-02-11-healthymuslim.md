@@ -10,7 +10,17 @@ tags: [muslims, healthy living, holistic, paradigm, Prophet , Islam, Sufism]
 	<img src="https://www.lisamcloughlinart.com/wp-content/uploads/2016/09/treelungs.png">
 </figure>
 
-Shaykh Hamdi often teaches that we are in dire need to learn, cultivate, and shape a healthy Muslim personality. For such a personality is the rock upon which we cast our rope. Our Example, the Emissary of God, is known as the Illiterate Prophet (an-Nabī al-Ummi). He did not need the text to shape his Noble Personality, nor did he depend upon the text to transmit his heritage. Indeed, the Qur’an is revealed to him as the Revered Sacred Text, but such reverence came through him ﷺ, and not independent from him. Throughout History, our Ancestors rarely had to understand the text of the Qur’an to forge a healthy Muslim personality. Rather they lived the Spirit of the Qur’an through the Walking Inheritors of the Prophetic Way.
+Shaykh Hamdi often teaches that we are in dire need to learn, cultivate, and shape a healthy Muslim personality. For such a personality is the rock upon which we cast our rope. Our Example, the Emissary of God, is known as the Illiterate Prophet{% fn %} (an-Nabī al-Ummi){% fn %}
+    {% fnbody %}
+      <p>One of the titles of the Prophet ﷺ is 'an-Nabi al-Ummi.' This is often translated as "the Illiterate/unlettered Prophet" but     other meanings can also be derived. “Umm” means "Mother." And the Mother is the one who gives us the essential foundational knowledge and understanding that guides us throughout our life. Someone who is “Ummi” is one who has been to the School of the Mother - the original school. That is the meaning of “illiterate.” It is a pure state that forges the Healthy Muslim Personality. 
+
+For more on why the Prophet ﷺ was called the Illiterate Prophet, see Shaykh Hamdi’s article on SeekersHub Global: <a href=" http://seekershub.org/blog/2016/04/why-illiterate-prophet/">http://seekershub.org/blog/2016/04/why-illiterate-prophet/</a>
+</p>
+   {% endfnbody %}
+   {% fnbody %}
+      <em>monde</em>
+   {% endfnbody %}
+{% endfootnotes %}. He did not need the text to shape his Noble Personality, nor did he depend upon the text to transmit his heritage. Indeed, the Qur’an is revealed to him as the Revered Sacred Text, but such reverence came through him ﷺ, and not independent from him. Throughout History, our Ancestors rarely had to understand the text of the Qur’an to forge a healthy Muslim personality. Rather they lived the Spirit of the Qur’an through the Walking Inheritors of the Prophetic Way.
 
 Our Ancestors were shaped by the culture of reverence for the Qur’an. Often towns would only have a few actual books of Qur’an, if even. The scarcity of the physical copy deepened their reverence. The role of its text was not to inform people. It was meant to remind people of the Beauty and Majesty of God.
 
