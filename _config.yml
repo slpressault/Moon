@@ -10,6 +10,7 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 
 url:                http://www.lifeontheshoulders.com
+url:                https://www.lifeontheshoulders.com
 
 
 # Jekyll
