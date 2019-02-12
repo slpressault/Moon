@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Life on the Shoulders
+title: About
 date: 2019-02-11
 feature: http://www.lifeontheshoulders.com/assets/img/IMG_5502.JPG
 comments: false
