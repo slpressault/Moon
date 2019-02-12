@@ -1,37 +1,20 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Life on the Shoulders
+tags: [about, Stephane, page, Islam, Shaykh Hamdi, Ben Aissa, Sufism]
+date: 2019-02-11
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>Life on the Shoulders is an exploration of a student's path on the shoulders of his Teacher.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Nanos gigantum humeris insidentes
+Who are we if we don't follow what our Elders teach? Our wisdom is simply the accumulation of what has come to pass. But in our time, we have forgotten that we are dwarves standing on the shoulders of giants. We think of ourselves as giants.
 
-## Preview
+Since 2012, God has blessed me to be in the company of my beloved Teacher, Shaykh Hamdi Ben Aissa. This website is a humble a attempt to show what its like to live life on the shoulders of giants.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+The reader will find paradigm shifting insights on God and God's Prophets, may God continue to nourish their light as well as our connection to them. We hope that the reader finds a deep appreciation and love for the path of Islam and Sufism, and a deeper reverence for Tradition and the Sacred.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+God bless you,
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Stephane
