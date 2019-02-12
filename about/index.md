@@ -8,6 +8,10 @@ comments: false
     
 <center>Life on the Shoulders is an exploration of a student's path on the shoulders of his Teacher.</center>
 
+<figure>
+	<img src="http://www.lifeontheshoulders.com/assets/img/IMG_5502.JPG">
+</figure>
+
 ## Nanos gigantum humeris insidentes
 Who are we if we don't follow what our Elders teach? Our wisdom is simply the accumulation of what has come to pass. But in our time, we have forgotten that we are dwarves standing on the shoulders of giants. We think of ourselves as giants.
 
