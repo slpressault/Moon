@@ -39,11 +39,12 @@ Our Ancestors made Islam universal by walking its Spirit. The text was always se
 The text was processed through their personality, like nectar turning into honey. The hearts of people found peace through them. But in our time, the text needs to speak the language of our context. We need to process it for our context, the way our Illiterate Ancestors did for theirs. To cultivate a Healthy Muslim Personality, our generation needs to approach the text with the transformative mindset of the Illiterate. Only then, will we see with the eye of Love.
 
 > "Start working and you will see the miracles and attributes of God unfolding in front of you through your own actions."
-<center>
-#### Watch Shaykh Hamdi's class on the Emotional and Spiritual Intelligence of the Prophet ﷺ
-</center>
-<center><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fshaykhhamdi%2Fvideos%2F461515164383484%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></center>
 
+
+#### Watch Shaykh Hamdi's class on the Emotional and Spiritual Intelligence of the Prophet ﷺ
+
+
+<center><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fshaykhhamdi%2Fvideos%2F461515164383484%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></center>
 
 <hr>
 
