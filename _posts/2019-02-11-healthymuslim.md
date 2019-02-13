@@ -40,6 +40,8 @@ The text was processed through their personality, like nectar turning into honey
 
 > "Start working and you will see the miracles and attributes of God unfolding in front of you through your own actions."
 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fshaykhhamdi%2Fvideos%2F461515164383484%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 <hr>
 
 <p id="section1"><sup><a href="#section3">1</a></sup> One of the titles of the Prophet ﷺ is 'an-Nabi al-Ummi.' This is often translated as "the Illiterate/unlettered Prophet" but other meanings can also be derived. “Umm” means "Mother." And the Mother is the one who gives us the essential foundational knowledge and understanding that guides us throughout our life. Someone who is “Ummi” is one who has been to the School of the Mother - the original school. That is the meaning of “illiterate.” It is a pure state that forges the Healthy Muslim Personality.
