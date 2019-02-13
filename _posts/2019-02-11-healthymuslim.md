@@ -34,7 +34,7 @@ This poses a challenge for our generation. We are now forced to retrace the exam
 
 Our Ancestors made Islam universal by walking its Spirit. The text was always secondary for them. If and when they read it, every utterance was a reminder of their Beloved. They didn't take a reductionist approach to the Qur'an. Only the Scholars really needed to read the text to clarify a particular point. The text was primarily informative while the Healthy Muslim Personality was transformative. 
 
-> "Our Ancestors were Walking Qur'an with just the BismiLlah," says Shaykh Hamdi.
+> "Our Ancestors were Walking Qur'an with just the Basmala," says Shaykh Hamdi.
 
 The text was processed through their personality, like nectar turning into honey. The hearts of people found peace through them. But in our time, the text needs to speak the language of our context. We need to process it for our context, the way our Illiterate Ancestors did for theirs. To cultivate a Healthy Muslim Personality, our generation needs to approach the text with the transformative mindset of the Illiterate. Only then, will we see with the eye of Love.
 
