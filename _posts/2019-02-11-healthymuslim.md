@@ -16,6 +16,7 @@ They lived in a healthy culture that provided the framework in which people coul
 
 When we read the Sīrah we can see that the Qur'an could not have been foundational in the spiritual education of the Companions.The text was always secondary for transmitting the Prophetic Model. As Shaykh Hamdi says,
 > "The Companions were looking into the Prophet ﷺ to understand the Qur'an. They were not reading the Qur'an to under the Prophet ﷺ. And looking at him was enough in itself because he was the Walking Qur'an."
+
 When the Qur’an was revealed, the Companions of the Beloved Prophet ﷺ embodied the Spirit of the text through the person of the Prophet ﷺ. As his dear wife, our Lady A’isha, said of her husband, “he was the Walking Qur’an.” The Companions relied on the Walking Qur’an to become themselves Walking Qur’ans. They were a generation of enlightened people who lived the virtues, wisdoms and lights of the Sacred Text, relying on their own elders who were themselves Healthy Muslim personalities.
 
 The Prophetic Model was transmitted by examples of Men and Women who exemplified the Healthy Muslim Personality. These were the Saints of our Tradition. No doubt, there has been Scholarship throughout our History. And the Scholars had their place to preserve aspects of the Religion. But people’s hearts opened to God through the embodiment of the Prophetic Way, not through textual transmissions such as books. Our Ancestors held an Illiterate Mindset, whether they knew how to read or not. They were ummiyyin. They did not depend on the Text to forge their personality.
