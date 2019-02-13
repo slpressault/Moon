@@ -4,11 +4,8 @@ title: "Cultivating a Healthy Muslim Personality"
 date: 2019-02-11
 excerpt: "We are in dire need to learn, cultivate, and shape a healthy Muslim personality."
 tags: [muslims, healthy living, holistic, paradigm, Prophet , Islam, Sufism]
+feature: https://www.lisamcloughlinart.com/wp-content/uploads/2016/09/treelungs.png
 ---
-
-<figure>
-	<img src="https://www.lisamcloughlinart.com/wp-content/uploads/2016/09/treelungs.png">
-</figure>
 
 <p id="section3">Shaykh Hamdi often teaches that we are in dire need to learn, cultivate, and shape a healthy Muslim personality. For such a personality is the rock upon which we cast our rope. Our Example, the Emissary of God, is known as the Illiterate Prophet (an-Nabī al-Ummi)<sup><a href="#section1">1</a></sup>. He did not need the text to shape his Noble Personality, nor did he depend upon the text to transmit his heritage. Indeed, the Qur’an is revealed to him as the Revered Sacred Text, but such reverence came through him ﷺ, and not independent from him. Throughout History, our Ancestors rarely had to understand the text of the Qur’an to forge a healthy Muslim personality. Rather they lived the Spirit of the Qur’an through the Walking Inheritors of the Prophetic Way.</p>
 
