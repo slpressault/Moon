@@ -71,7 +71,6 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll/footnotes
-  - jekyll-footnotes
 
 
 jekyll-mentions:
