@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cultivating a Healthy Muslim Personality"
-date: 2019-02-11
+date: 2019-02-22
 excerpt: "We are in dire need to learn, cultivate, and shape a healthy Muslim personality."
 tags: [muslims, healthy living, holistic, paradigm, Prophet , Islam, Sufism]
 feature: https://www.lisamcloughlinart.com/wp-content/uploads/2016/09/treelungs.png
