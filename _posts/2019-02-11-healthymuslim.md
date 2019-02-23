@@ -13,7 +13,7 @@ feature: https://www.lisamcloughlinart.com/wp-content/uploads/2016/09/treelungs.
 
 
 Our Example, the Emissary of God, is known as the Illiterate Prophet (an-Nabī al-Ummi)<sup><a href="#section1">1</a></sup>. If we glance at his life, we see that he never  depended on the Letter of the Qu’ran to shape his Noble Personality, nor did he depend upon it to transmit his heritage. Indeed, the Qur’an is revealed to him as the Revered Sacred Letter, but such reverence came through him ﷺ, and not independent from him. The Letter of the Qur'an could not have been foundational in the spiritual education of his Companions. The actual text was always secondary for transmitting the Prophetic Model. In the words of the Shaykh,
-> "The Companions were looking into the Prophet ﷺ to understand the Qur'an. They were not reading the Qur'an to under the Prophet ﷺ. And looking at him was enough in itself because he was the Walking Qur'an."
+> "The Companions were looking into the Prophet ﷺ to understand the Qur'an. They were not reading the Qur'an to understand the Prophet ﷺ. And looking at him was enough in itself because he was the Walking Qur'an."
 
 When the Qur’an was revealed, the Companions of the Beloved Prophet ﷺ embodied the Spirit of the Letter through the Person of the Prophet ﷺ. As his dear wife, our Lady A’isha, said of her husband, “he was the Walking Qur’an.” The Companions relied on the Walking Qur’an to become themselves Walking Qur’ans. They were a generation of enlightened people who lived the virtues, wisdoms and lights of the Sacred Book.
 
