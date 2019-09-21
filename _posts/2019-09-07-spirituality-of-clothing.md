@@ -3,7 +3,7 @@ layout: post
 title: "Children and the Spirituality of Clothing"
 date: 2019-09-07
 excerpt: "A few days after my daughter was born, I picked up Girls on the Edge by Dr. Leonard Sax. I had heard many parents speaking about Dr. Sax and his important research on gender. As a new father, I knew that I had been thrown into a completely new journey and the idea of raising a woman became a reality."
-tags: [education, children, fashion]
+tags: [education, children, fashion, spirituality]
 comments: false
 ---
 
